@@ -25,7 +25,7 @@ Using this work-flow has several advantages:
   - [Prose](#prose)
   - [Dilinger](#dilinger)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- END doctoc generated TOC please keep comment here to allow auto update  -->
 
 # Requisites
 The list of pre-requisites is quite small, and you only need to fit them once
